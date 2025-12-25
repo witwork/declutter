@@ -1,0 +1,136 @@
+<p align="center">
+  <img src="assets/app-icon.png" alt="Declutter" width="128" height="128">
+</p>
+
+<h1 align="center">Declutter</h1>
+
+<p align="center">
+  <strong>Reclaim Your Space. Intelligently.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/witwork/declutter/releases/latest">
+    <img src="https://img.shields.io/github/v/release/witwork/declutter?style=flat-square" alt="Latest Release">
+  </a>
+  <a href="https://github.com/witwork/declutter/releases">
+    <img src="https://img.shields.io/github/downloads/witwork/declutter/total?style=flat-square" alt="Downloads">
+  </a>
+  <img src="https://img.shields.io/badge/platform-macOS%2014%2B-blue?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/license-Proprietary-lightgrey?style=flat-square" alt="License">
+</p>
+
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#download">Download</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#pricing">Pricing</a> •
+  <a href="#support">Support</a>
+</p>
+
+---
+
+## About
+
+**Declutter** is a powerful duplicate file finder for macOS that helps you reclaim gigabytes of wasted disk space. Using advanced algorithms including AI-powered scene detection, Declutter identifies duplicate files, similar images, and large files taking up your precious storage.
+
+## Features
+
+| Feature | Description |
+|---------|-------------|
+| **Duplicate Files** | Find exact byte-for-byte duplicates using fast xxHash64 algorithm |
+| **Similar Images** | Detect visually similar images (resized, compressed, edited) |
+| **Same Scene (AI)** | Find photos of the same scene with different angles using Apple Vision |
+| **Large Files** | Identify files taking up the most disk space |
+| **Cache Cleaner** | Clean system and application caches safely |
+
+### Safety First
+
+- All deletions go to Trash (recoverable)
+- Preview everything before deletion
+- Smart selection with keep strategies
+- Protected system files
+
+## Download
+
+### Latest Release
+
+<p align="center">
+  <a href="https://github.com/witwork/declutter/releases/latest">
+    <img src="https://img.shields.io/badge/Download-PKG%20Installer-blue?style=for-the-badge&logo=apple" alt="Download PKG">
+  </a>
+</p>
+
+Or download from the [Releases](https://github.com/witwork/declutter/releases) page.
+
+### System Requirements
+
+- macOS 14.0 (Sonoma) or later
+- Apple Silicon or Intel Mac
+- ~50MB disk space
+
+### Installation
+
+1. Download the latest `.pkg` file from [Releases](https://github.com/witwork/declutter/releases)
+2. Double-click to run the installer
+3. Follow the installation prompts
+4. Launch Declutter from Applications folder
+5. Grant Full Disk Access when prompted (required for scanning)
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshot-main.png" alt="Main Interface" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/screenshot-results.png" alt="Scan Results" width="800">
+</p>
+
+## Pricing
+
+| Free | Pro ($14.99) |
+|------|--------------|
+| Duplicate Files scan | Everything in Free |
+| Similar Images scan | **Unlimited deletion** |
+| Large Files scan | **AI Scene Matching** |
+| Cache Cleaner | **Export reports** |
+| Preview all results | Priority support |
+| 500MB/month deletion limit | Lifetime updates |
+
+**[Purchase Pro License](https://declutter.app/buy)**
+
+## Support
+
+- **Email:** support@declutter.app
+- **Issues:** [GitHub Issues](https://github.com/witwork/declutter/issues)
+- **Website:** [declutter.app](https://declutter.app)
+
+### FAQ
+
+<details>
+<summary><strong>Is Declutter safe to use?</strong></summary>
+
+Yes! Declutter never permanently deletes files. All deletions are moved to Trash, where you can recover them if needed. We also skip system files and protected directories.
+</details>
+
+<details>
+<summary><strong>Why does Declutter need Full Disk Access?</strong></summary>
+
+Full Disk Access allows Declutter to scan all your files, including those in protected locations like Desktop and Documents. Without it, many duplicates would be missed.
+</details>
+
+<details>
+<summary><strong>How is AI Scene Matching different from Similar Images?</strong></summary>
+
+Similar Images uses perceptual hashing to find visually similar images (same photo, different sizes). AI Scene Matching uses Apple's Vision framework to understand the content of images and find different photos of the same subject or location.
+</details>
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for version history.
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/witwork">witwork</a>
+</p>
