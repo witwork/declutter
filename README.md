@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="assets/app-icon.png" alt="Declutter" width="128" height="128">
+  <img src="assets/app-icon.png" alt="Declutter - Duplicate File Finder for Mac" width="128" height="128">
 </p>
 
-<h1 align="center">Declutter</h1>
+<h1 align="center">Declutter - Duplicate File Finder for Mac</h1>
 
 <p align="center">
-  <strong>Reclaim Your Space. Intelligently.</strong>
+  <strong>Find and Remove Duplicate Files, Similar Photos & Large Files on macOS</strong>
+</p>
+
+<p align="center">
+  <em>Free duplicate file finder for Mac • Similar photo finder • AI-powered scene detection • Clean up Mac storage</em>
 </p>
 
 <p align="center">
@@ -31,7 +35,17 @@
 
 ## About
 
-**Declutter** is a powerful duplicate file finder for macOS that helps you reclaim gigabytes of wasted disk space. Using advanced algorithms including AI-powered scene detection, Declutter identifies duplicate files, similar images, and large files taking up your precious storage.
+**Declutter** is the best free duplicate file finder for Mac that helps you reclaim gigabytes of wasted disk space. Whether you're looking to find duplicate files on macOS, remove duplicate photos, or clean up your Mac storage, Declutter has you covered.
+
+### Why Declutter?
+
+- **Fast & Accurate**: Uses xxHash64 algorithm to find exact duplicates in seconds
+- **Smart Photo Detection**: Find similar images even if resized or compressed
+- **AI Scene Matching**: Unique feature using Apple Vision to find photos of the same scene from different angles
+- **Safe Deletion**: Everything goes to Trash first - fully recoverable
+- **Free to Use**: Generous free tier with 500MB/month deletion
+- **Native macOS App**: Built for Apple Silicon (M1/M2/M3) and Intel Macs
+- **Privacy First**: All processing happens locally on your Mac
 
 ## Features
 
@@ -124,6 +138,35 @@ Full Disk Access allows Declutter to scan all your files, including those in pro
 
 Similar Images uses perceptual hashing to find visually similar images (same photo, different sizes). AI Scene Matching uses Apple's Vision framework to understand the content of images and find different photos of the same subject or location.
 </details>
+
+## Use Cases
+
+### Find Duplicate Files on Mac
+Scan your entire Mac or specific folders to find exact byte-for-byte duplicate files. Perfect for cleaning up Downloads, Documents, or external drives.
+
+### Remove Duplicate Photos
+Have thousands of photos taking up space? Declutter finds duplicate and similar photos across your photo library, even if they've been resized or compressed.
+
+### Clean Up Mac Storage
+Running out of disk space? Use the Large Files finder to identify what's taking up the most space, and the Cache Cleaner to safely remove temporary files.
+
+### Organize Photo Library
+The AI Scene Matching feature helps you find multiple photos of the same subject or location - perfect for cleaning up after vacations or events.
+
+## Alternatives Comparison
+
+| Feature | Declutter | Gemini 2 | Duplicate File Finder |
+|---------|-----------|----------|----------------------|
+| Price | Free / $14.99 | $19.95/year | $9.99 |
+| AI Scene Detection | ✅ | ❌ | ❌ |
+| Similar Images | ✅ | ✅ | ✅ |
+| Cache Cleaner | ✅ | ❌ | ❌ |
+| Apple Silicon Native | ✅ | ✅ | ✅ |
+| One-time Purchase | ✅ | ❌ (subscription) | ✅ |
+
+## Keywords
+
+`duplicate file finder mac` `find duplicate files macos` `remove duplicate photos mac` `mac storage cleaner` `similar photo finder` `free duplicate finder mac` `best duplicate file finder mac 2025` `clean up mac hard drive` `find duplicate photos mac` `macos disk space cleaner` `apple silicon duplicate finder` `m1 m2 m3 mac cleaner`
 
 ## Changelog
 
